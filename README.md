@@ -1,219 +1,249 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Midhun%20NK&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Craftsman&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1b2838&height=220&section=header&text=Bhavan%20Kumar%20RT&fontSize=58&fontColor=00e5ff&fontAlignY=40&desc=⚡%20Electrical%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descColor=90caf9&animation=fadeIn" />
 
 </div>
 
-<!-- ANIMATED TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+Flutter;Building+Ideas+Into+Reality+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=B.E.+Electrical+%26+Electronics+%E2%9A%A1+CGPA+8.65;Python+%7C+Embedded+Systems+%7C+Control+Systems;LeetCode+450%2B+Problems+Solved+%F0%9F%94%A5;Cybersecurity+Enthusiast+%F0%9F%94%90;EDII+Hackathon+%7C+Builder+%7C+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS + STARS BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Bhavan790&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Midhun-Nk?style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/Bhavan790?style=for-the-badge&color=0891b2&labelColor=0d1117&label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Midhun-Nk?style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=TOTAL+STARS" />
+  <img src="https://img.shields.io/badge/LeetCode-450%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-8.65%2F10-00e5ff?style=for-the-badge" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-### 👨‍💻 About Me
+### 🧠 Who Am I?
 
-```typescript
-const midhun = {
-  name:       "Midhun NK",
-  role:       "Full Stack Developer",
-  location:   "India 🇮🇳",
-  stacks:     ["MERN", "Python", "Flutter"],
-  passions:   ["Clean Code", "UI/UX", "Open Source"],
-  email:      "midhunnk2019@gmail.com",
-  secret:     "🥷 Vigilante (Classified)",
-  currentFocus: "Building scalable web apps",
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-};
+```python
+class BhavanKumarRT:
+    name       = "Bhavan Kumar RT"
+    degree     = "B.E. Electrical & Electronics"
+    college    = "Rajalakshmi Engineering College"
+    cgpa       = 8.65
+    location   = "India 🇮🇳"
+    email      = "bk2809231@gmail.com"
+    phone      = "+91 8838077864"
+
+    skills = {
+        "languages" : ["Python", "Java", "C"],
+        "web"       : ["HTML", "CSS"],
+        "software"  : ["MATLAB", "Proteus", "AutoCAD"],
+        "domains"   : ["Embedded Systems", "Control Systems",
+                       "Cybersecurity Basics", "ML / AI"],
+    }
+
+    achievements = [
+        "⚡ LeetCode 450+ problems solved",
+        "🏆 EDII Hackathon Participant",
+        "🔐 Ethical Hacking Fundamentals",
+        "🎯 CGPA 8.65 — Rajalakshmi Engineering College",
+    ]
+
+    open_to = "Internships & Collaborations 🤝"
 ```
 
-- 🔭 Currently working on **scalable full-stack projects**
-- 🌱 Exploring **Next.js, TypeScript & Cloud Architecture**
-- 💬 Ask me about **React, Node.js, Python, or Flutter**
-- 🤝 Open to **collaboration on Web Development**
-- ⚡ Fun fact: I turn coffee into code ☕ → 💻
+- ⚡ Electrical engineer who **codes** — bridging hardware & software
+- 🧩 Competitive programmer with **450+ LeetCode** problems solved
+- 🔐 Exploring **ethical hacking** & cybersecurity fundamentals  
+- 🤖 Building **embedded & control systems** that interact with the real world
+- 📫 Reach me: **bk2809231@gmail.com** | **+91 8838077864**
 
 <br clear="right"/>
 
 ---
 
-<!-- SOCIAL LINKS -->
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-nk)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Midhun-Nk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mike_devlogs)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mike.devlogs)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/EduMikeStudio)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/midhun-nk)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/midhun_n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavan_Kumar_RT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavan-kumar-rt)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhavan790-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavan790)
+[![LeetCode](https://img.shields.io/badge/LeetCode-450%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Gmail](https://img.shields.io/badge/Gmail-bk2809231@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bk2809231@gmail.com)
 
 </div>
 
 ---
 
-<!-- TECH STACK SECTION -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### ⚡ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🔧 Engineering Software
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Design_Suite-1a1a2e?style=for-the-badge&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+### 🔬 Domains & Interests
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Control Systems](https://img.shields.io/badge/Control_Systems-6C3483?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Basics-FF6B35?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-LeetCode_450%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS SECTION -->
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⚡ PWM DC-DC Converter
+![MATLAB](https://img.shields.io/badge/MATLAB-Control_Systems-0076A8?style=flat-square)
+
+Designed a **FOPID controller** to regulate PWM signals and enhance system stability in a closed-loop DC-DC converter — key power electronics application.
+
+</td>
+<td width="50%" align="center">
+
+### 🔥 Fire Extinguisher System
+![Embedded](https://img.shields.io/badge/Embedded-Microcontroller-00979D?style=flat-square)
+
+Built an **embedded fire-detection & automatic extinguishing** system using sensors + microcontroller. Real-time response, safety-critical design.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🔐 Scripted Bot — CyberSec Tool
+![Python](https://img.shields.io/badge/Python-Cybersecurity-3776AB?style=flat-square)
+
+Python **keystroke-monitoring script** for cybersecurity awareness — demonstrates ethical hacking concepts and safe-computing education practices.
+
+</td>
+<td width="50%" align="center">
+
+### 📱 Instagram UI Clone
+![HTML CSS](https://img.shields.io/badge/HTML%2FCSS-Responsive-E34F26?style=flat-square)
+
+**Pixel-perfect responsive replica** of the Instagram login page using pure HTML & CSS — clean layout with mobile-first approach.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/450%2B-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/>
+  <sub><b>Competitive Programming</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/CGPA-8.65%2F10-00e5ff?style=for-the-badge" /><br/>
+  <sub><b>Academic Excellence</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/EDII-Hackathon-7c3aed?style=for-the-badge" /><br/>
+  <sub><b>Innovation Challenge</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Ethical-Hacking-FF6B35?style=for-the-badge" /><br/>
+  <sub><b>Cybersecurity Basics</b></sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhavan790&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavan790&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Bhavan790&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=c9d1d9" />
 </div>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Midhun-Nk&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavan790&bg_color=0d1117&color=00e5ff&line=0891b2&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Midhun-Nk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhavan790&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
 
-<!-- CURRENTLY LEARNING / PROJECTS SECTION -->
-## 🚀 What I'm Up To
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔨_Building-1e1e2e?style=for-the-badge" /><br/>
-      <b>Full Stack SaaS Apps</b><br/>
-      <sub>Next.js + Node.js + MongoDB</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/📖_Learning-1e1e2e?style=for-the-badge" /><br/>
-      <b>Cloud & DevOps</b><br/>
-      <sub>GCP, Docker, CI/CD</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/✍️_Writing-1e1e2e?style=for-the-badge" /><br/>
-      <b>Dev Articles</b><br/>
-      <sub>dev.to/midhun-nk</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Midhun-Nk/Midhun-Nk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Midhun-Nk/Midhun-Nk/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Midhun-Nk/Midhun-Nk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavan790/Bhavan790/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavan790/Bhavan790/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Bhavan790/Bhavan790/output/github-snake-dark.svg" />
   </picture>
 </div>
 
-> **Note:** To enable the snake animation, create a GitHub Actions workflow — see setup instructions below.
-
 ---
 
-<!-- QUOTE SECTION -->
-## 💭 Dev Quote of the Day
+## 💭 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </div>
 
 ---
 
-<!-- SUPPORT -->
-## ☕ Support My Work
+## 📈 Currently Working On
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
-  </a>
-  <br/><br/>
-  <i>If my projects helped you, consider buying me a coffee — it keeps the code flowing! 🚀</i>
+<table>
+<tr>
+<td align="center" width="33%">🔬 <b>DSA Mastery</b><br/><sub>Targeting 600+ on LeetCode</sub></td>
+<td align="center" width="33%">🤖 <b>ML Projects</b><br/><sub>Python + scikit-learn</sub></td>
+<td align="center" width="33%">🌐 <b>Open Source</b><br/><sub>Contributing & Building</sub></td>
+</tr>
+</table>
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</div>
-
-<div align="center">
-  <sub>✨ Crafted with passion by <b>Midhun NK</b> • Updated dynamically</sub>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2838,50:0d1b2a,100:0a0a0f&height=120&section=footer" />
+  <sub>⚡ Built with precision by <b>Bhavan Kumar RT</b> — EEE Engineer who builds things that matter</sub>
 </div>
