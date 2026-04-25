@@ -54,11 +54,6 @@ class BhavanKumarRT:
         "🎯 CGPA 8.65 — Rajalakshmi Engineering College",
     ]
 
-🔨 Currently Building
-  🛡️ Improving **ai-privacy-shield-pro** with multi-language support
-  📊 Building a real-time stock sentiment analyzer using NLP
-  💡 Open to: Internships, collaborations, open source
-
     open_to = "Internships & Collaborations 🤝"
 ```
 
@@ -182,11 +177,6 @@ Python **keystroke-monitoring script** for cybersecurity awareness — demonstra
 </table>
 </div>
 
----
-## 📊 GitHub stats
-![Bhavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavan790&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bhavan790&theme=tokyonight)
 ---
 
 ## 📊 GitHub Statistics
