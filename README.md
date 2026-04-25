@@ -61,7 +61,7 @@ class BhavanKumarRT:
 - 🧩 Competitive programmer with **450+ LeetCode** problems solved
 - 🔐 Exploring **ethical hacking** & cybersecurity fundamentals  
 - 🤖 Building **embedded & control systems** that interact with the real world
-- 📫 Reach me: **bk2809231@gmail.com** | **+91 8838077864**
+- 📫 Reach me: **bk2809231@gmail.com** 
 
 <br clear="right"/>
 
@@ -196,14 +196,6 @@ Python **keystroke-monitoring script** for cybersecurity awareness — demonstra
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavan790&bg_color=0d1117&color=00e5ff&line=0891b2&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavan790&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
